@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm VIGNESH</h1>
 <h3 align="center">BE-Final Year Student</h3>
-- 🔭 I’m currently a **Fresher**
+
+ - 🔭 I’m currently a **Fresher**
  
 - 👯 I’m looking to collaborate on **Python Projects**
 
