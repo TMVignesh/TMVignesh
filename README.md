@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently a **BE-Student**
 
-- 🌱 I’m currently learning **Mongodb**
+- 🌱 I’m currently learning **JavaScript**
 
 - 👯 I’m looking to collaborate on **Python Projects**
 
